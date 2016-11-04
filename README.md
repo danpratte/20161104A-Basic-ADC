@@ -1,4 +1,6 @@
-# 20161104A-Basic-ADC
-This demonstrates the most basic ADC functionality on an ATMega328
+# Basic-AVR-ADC
+This repository demonstrates basic ADC functionality on AVR Microcontrollers.
+
+
 
 
