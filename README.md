@@ -1,4 +1,4 @@
-# Basic-AVR-ADC
+# AVR-ADC
 This repository demonstrates basic ADC functionality on AVR Microcontrollers.
 
 
